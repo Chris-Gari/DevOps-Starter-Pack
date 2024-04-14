@@ -1,0 +1,5 @@
+Go To C:\Windows\System32\DriverStore\FileRepository\ On Host Machine ( Main Pc Not VM )
+
+Copy  nv_dispi.inf_amd64 into the location where this document is.
+
+Then Grab all the files you made and transfer to c:\windows\system32 ON VM
