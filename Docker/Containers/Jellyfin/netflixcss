@@ -1,11 +1,8 @@
-/* netflix sans */
 @font-face {
-  font-family: 'Netflix Sans;
-  font-style: normal;
-  font-weight: 400;
-  src: url('/web/fonts/netflix-sans/NetflixSans-Regular.woff2'); /* IE9 Compat Modes */
-  src: local(''),
-       url('/web/fonts/netflix-sans/NetflixSans-Regular.woff2') format('woff2'), /* Super Modern Browsers */
-
+  font-family: 'Netflix Sans';
+  src: url('/web/fonts/netflix-sans/NetflixSans-Regular.woff2f) format('woff2');
 }
-html { font-family: "Netflix Sans" !important;}
+
+body {
+  font-family: 'Netflix Sans';
+}
