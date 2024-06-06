@@ -4,5 +4,5 @@
 }
 
 body {
-  font-family: 'Netflix Sans';
+  font-family: 'Netflix Sans', 'Open Sans', sans-serif;
 }
